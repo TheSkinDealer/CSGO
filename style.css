@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(23, 171, 198);
+}
+#navbar {
+  height: auto;
+  width: 1600px;
+  float: left;
+  outline-style: solid;
+  outline-color: rgb(23, 171, 198);
+}
+#navoptionhome {
+  height: 57px;
+  width: 23%;
+  display: inline-block;
+  float: left;
+  background-color: #ffffff;
+}
+#navspacer {
+  height: 57px;
+  width: 47%;
+  display: inline-block;
+  float: left;
+  background-color: #ffffff;
+  text-align: center;
+}
+#navoption {
+  height: 57px;
+  width: 10%;
+  display: inline-block;
+  float: right;
+  outline-style: solid;
+  outline-color: rgb(23, 171, 198);
+  outline-width: 1px;
+  background-color: #ffffff;
+  text-align: center;
+}
+a:active {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:link {
+    color: black;
+}
+.logofont {
+  font-size: 40px;
+  font-family: 'Permanent Marker', cursive;
+
+}
+#logopadding {
+  padding-left: 25px;
+}
+
+#content {
+  width: 1600px;
+  height: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+#filter {
+  margin-top: 12px;
+  float: left;
+  margin-left: 3px;
+  background-color: #ffffff;
+  width: 19%;
+  height: 1245px;
+  outline-style: solid;
+  outline-color: #ffffff;
+}
+
+#items {
+  float: right;
+  margin-top: 10px;
+  background-color: #ffffff;
+  width: 80%;
+  height: 1250px;
+}
